@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+}
+h1{
+    color: rgb(217, 219, 219);
+    font-size: larger;
+    font-family: cursive;
+}
+p{
+    font-weight: bolder;
+}
+h3{
+    color: rgb(153, 153, 153);
+    font-size: larger;
+    font-family: cursive;
+}
+p{
+    font-weight: bolder;
+}
+h4{
+    color: rgb(175, 175, 175);
+    font-size: larger;
+    font-family: cursive;
+}
+p{
+    font-weight: bolder;
+}
+h1{
+    color: rgb(151, 151, 151);
+    font-size: larger;
+    font-family: cursive;
+}
+
+
